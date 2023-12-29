@@ -1,4 +1,5 @@
 streamlit
+replicate
 pypdf
 langchain
 torch
